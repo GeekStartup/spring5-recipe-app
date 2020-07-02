@@ -1,1 +1,1 @@
-# spring5-recipe-app [![CircleCI](https://circleci.com/gh/GeekStartup/spring5-recipe-app.svg?style=svg)](https://circleci.com/gh/GeekStartup/spring5-recipe-app)
+# spring5-recipe-app [![CircleCI](https://img.shields.io/circleci/build/github/GeekStartup/spring5-recipe-app?style=plastic)](https://img.shields.io/circleci/build/github/GeekStartup/spring5-recipe-app?style=plastic)
