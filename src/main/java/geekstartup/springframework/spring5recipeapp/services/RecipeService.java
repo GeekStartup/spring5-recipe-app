@@ -1,5 +1,6 @@
 package geekstartup.springframework.spring5recipeapp.services;
 
+import geekstartup.springframework.spring5recipeapp.commands.RecipeCommand;
 import geekstartup.springframework.spring5recipeapp.domain.Recipe;
 
 import java.util.Set;
@@ -12,4 +13,6 @@ public interface RecipeService {
     Set<Recipe> getRecipes();
 
     Recipe getRecipeById(Long id);
+
+    RecipeCommand saveRecipeCommand(RecipeCommand recipeCommand);
 }
